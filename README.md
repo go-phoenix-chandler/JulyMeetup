@@ -9,7 +9,7 @@
 * if Brew -> `export GOROOT_BOOTSTRAP=/usr/local/Cellar/go/1.8.x/libexec`
 * else -> `export GOROOT_BOOTSTRAP=/usr/local/go`
 * `./buildall.bash`
-* `alias dev-go='/Users/bdowns/golang/bin/go'`
+* `alias dev-go='~/golang/bin/go'`
 
 Run tests to make sure you're all set: `GOROOT='' dev-go test bytes`
 
