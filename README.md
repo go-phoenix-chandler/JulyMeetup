@@ -11,7 +11,7 @@
 * `./buildall.bash`
 * `alias dev-go='/Users/bdowns/golang/bin/go'`
 
-If having to compile Go, we'll need to run `GOROOT='' dev-go test bytes` to test
+Run tests to make sure you're all set: `GOROOT='' dev-go test bytes`
 
 ## Adding New Files
 
