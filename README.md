@@ -11,6 +11,7 @@
 * `cd src`
 * `./buildall.bash`
 * `alias dev-go='~/golang/bin/go'`
+* `godoc -goroot '/path/to/golang' -http=:6060`
 
 Run tests to make sure you're all set: `GOROOT='' dev-go test bytes`
 
