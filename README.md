@@ -8,6 +8,7 @@
 
 * if Brew -> `export GOROOT_BOOTSTRAP=/usr/local/Cellar/go/1.8.x/libexec`
 * else -> `export GOROOT_BOOTSTRAP=/usr/local/go`
+* `cd src`
 * `./buildall.bash`
 * `alias dev-go='~/golang/bin/go'`
 
